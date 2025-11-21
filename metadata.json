@@ -1,0 +1,5 @@
+{
+  "name": "Copy of HealthMate - Sehat ka Smart Dost",
+  "description": "A personal health companion app that uses Gemini to analyze medical reports, provide bilingual summaries (English + Roman Urdu), and track health vitals.",
+  "requestFramePermissions": []
+}
